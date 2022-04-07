@@ -5,7 +5,7 @@ My solution involved three stages:
 1. Create a calibrate algorithm to map between pixel coordinates in an image and metre-based coordinates that the robot head can naviagte to
 2. Develop an accurate and reliable computer vision algorithm to locate the centre coordinates of a number of buns placed in a random configuration on a tray. 
 3. Write a path optimisation algorithm which determines the optimal route for the icing extruder head to decorate the crosses onto the buns, minimising the wasted icing. 
-4. Use the ROS library to interface with Inovo’s modular robotic arm to move the extruder head across the tray of buns with the desired route.
+4. Use the _ROS_ library to interface with Inovo’s modular robotic arm to move the extruder head across the tray of buns with the desired route.
 
 
 Check out my [blog post](https://orlandoalexander.wordpress.com/2021/08/29/computer-vision-project-with-inovo-robotics/) to read more about this project to see the robot in action!
@@ -16,7 +16,7 @@ Check out my [blog post](https://orlandoalexander.wordpress.com/2021/08/29/compu
 - Uses three circular stickers:
   - First sticker is in the top left hand corner of the camera’s field of view (the origin)
   - Second and third stickers are somewhere else in the camera’s field of view
-- Hough circles (OpenCV) used to detect these circles
+- Hough circles (_OpenCV_) used to detect these circles
 - User must manually move the TCP (robot head) over the centre of each circle to enable the calibration to take place
 - Magnitude of the distance between these two circles is used to find the scale factor to convert between pixels and metres
 - Angle created by each point with the origin and the x-axis is used to find the angular offset between the grid of the Inovo robot and the camera grid
@@ -26,7 +26,7 @@ Check out my [blog post](https://orlandoalexander.wordpress.com/2021/08/29/compu
 
 **Computer Vision**
 - Prepare image of buns on tray:
-  - Convert image to grayscale for OpenCV processes 
+  - Convert image to grayscale for _OpenCV_ processes 
   - Use a mask to remove unwanted elements of image and isolate the buns (using HSV colour range)
   - Blur image to remove noise (wrinkles on buns and sharp edges)
   - Erode image to increase separation between buns – removes chance of errors when detecting edges of buns
@@ -41,7 +41,7 @@ Check out my [blog post](https://orlandoalexander.wordpress.com/2021/08/29/compu
  
 **Path Optimisation**
 
-- Machine Learning library mlrose used to find optimal path between the individual start and endpoint coordinates of the vertical and horizontal lines of the crosses on the buns
+- Machine Learning library _mlrose_ used to find optimal path between the individual start and endpoint coordinates of the vertical and horizontal lines of the crosses on the buns
 - Adapting these results, the optimal path which joins up each start and endpoint of a line to create the vertical and horizontal lines of the crosses on the buns can be found
 - Additional coordinates which the TCP must pass through are integrated to ensure the icing extruder does not pass over other buns as it travels between each bun
 
