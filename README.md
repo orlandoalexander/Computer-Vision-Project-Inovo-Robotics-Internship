@@ -8,7 +8,7 @@ My solution involved four stages:
 4. Use the _ROS_ library to interface with Inovo’s modular robotic arm to move the extruder head across the tray of buns with the desired route.
 
 
-Check out my [blog post](https://orlandoalexander.wordpress.com/2021/08/29/computer-vision-project-with-inovo-robotics/) to read more about this project to see the robot in action!
+Check out my [blog post](https://orlandoalexander.wordpress.com/2021/08/29/computer-vision-project-with-inovo-robotics/) to read more about this project and to see the robot in action!
 
 </br>
 
