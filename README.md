@@ -1,6 +1,6 @@
 # Hot-Cross Buns Computer Vision Project (Inovo Robotics Internship)
 During summer 2021 I spent two weeks working with Inovo Robotics on a POC computer vision project to automate the decoration of hot-cross buns. 
-My solution involved three stages:
+My solution involved four stages:
 
 1. Create a calibrate algorithm to map between pixel coordinates in an image and metre-based coordinates that the robot head can naviagte to
 2. Develop an accurate and reliable computer vision algorithm to locate the centre coordinates of a number of buns placed in a random configuration on a tray. 
