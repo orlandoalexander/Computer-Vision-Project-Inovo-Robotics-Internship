@@ -9,23 +9,23 @@ My solution involved four stages:
 
 Below is a summary of the processes I used to create the final bun detection program:
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/f640e2be-6605-4531-801e-00ef45bb9b1a" width="300" />
-  <img src="https://github.com/user-attachments/assets/780204d2-1153-49bd-b611-425c1ca7b837" width="300" />
+  <img src="https://github.com/user-attachments/assets/f640e2be-6605-4531-801e-00ef45bb9b1a" width="450" />
+  <img src="https://github.com/user-attachments/assets/780204d2-1153-49bd-b611-425c1ca7b837" width="450" />
 </p>
 
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/24d1d57d-2e24-46ee-8ee9-09c935cfb25f" width="300" />
-  <img src="https://github.com/user-attachments/assets/247b9184-e7ba-47ec-b45b-9ec0cb04b81d" width="300" />
+  <img src="https://github.com/user-attachments/assets/24d1d57d-2e24-46ee-8ee9-09c935cfb25f" width="450" />
+  <img src="https://github.com/user-attachments/assets/247b9184-e7ba-47ec-b45b-9ec0cb04b81d" width="450" />
 </p>
 
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/89e837d4-eef4-46e0-9349-7327ee4e4244" width="300" />
-  <img src="https://github.com/user-attachments/assets/2e72b3df-4f36-4676-b5f4-2265d5f97fa2" width="300" />
+  <img src="https://github.com/user-attachments/assets/89e837d4-eef4-46e0-9349-7327ee4e4244" width="450" />
+  <img src="https://github.com/user-attachments/assets/2e72b3df-4f36-4676-b5f4-2265d5f97fa2" width="450" />
 </p>
 
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/e90a9318-5a1c-4739-ba8b-4071142c0d34" width="300" />
-  <img src="https://github.com/user-attachments/assets/ed2da222-215d-4845-b32e-ba1794dd2f54" width="300" />
+  <img src="https://github.com/user-attachments/assets/e90a9318-5a1c-4739-ba8b-4071142c0d34" width="450" />
+  <img src="https://github.com/user-attachments/assets/ed2da222-215d-4845-b32e-ba1794dd2f54" width="450" />
 </p>
 
 
