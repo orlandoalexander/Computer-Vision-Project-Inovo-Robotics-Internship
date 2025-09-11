@@ -7,8 +7,17 @@ My solution involved four stages:
 3. Write a path optimisation algorithm which determines the optimal route for the icing extruder head to decorate the crosses onto the buns, minimising the wasted icing. 
 4. Use the _ROS_ library to interface with Inovo’s modular robotic arm to move the extruder head across the tray of buns with the desired route.
 
+Below is a summary of the processes I used to create the final bun detection program:
+![slide1](https://github.com/user-attachments/assets/f640e2be-6605-4531-801e-00ef45bb9b1a)
+![slide2](https://github.com/user-attachments/assets/780204d2-1153-49bd-b611-425c1ca7b837)
+![slide3](https://github.com/user-attachments/assets/24d1d57d-2e24-46ee-8ee9-09c935cfb25f)
+![slide4](https://github.com/user-attachments/assets/247b9184-e7ba-47ec-b45b-9ec0cb04b81d)
+![slide5](https://github.com/user-attachments/assets/89e837d4-eef4-46e0-9349-7327ee4e4244)
+![slide6](https://github.com/user-attachments/assets/2e72b3df-4f36-4676-b5f4-2265d5f97fa2)
+![slide7](https://github.com/user-attachments/assets/e90a9318-5a1c-4739-ba8b-4071142c0d34)
+![slide8](https://github.com/user-attachments/assets/ed2da222-215d-4845-b32e-ba1794dd2f54)
 
-Check out my [blog post](https://orlandoalexander.wordpress.com/2021/08/29/computer-vision-project-with-inovo-robotics/) to read more about this project and to see the robot in action!
+
 
 </br>
 
