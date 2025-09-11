@@ -1,5 +1,9 @@
 # Hot-Cross Buns Computer Vision Project (Inovo Robotics Internship)
 During summer 2021 I spent two weeks working with Inovo Robotics on a POC computer vision project to automate the decoration of hot-cross buns. 
+
+<img src="https://user-images.githubusercontent.com/67097862/162095779-f7745a7e-28e5-4bd6-ae0e-6684df174a03.png" align = "center" width="400">
+
+
 My solution involved four stages:
 
 1. Create a calibrate algorithm to map between pixel coordinates in an image and metre-based coordinates that the robot head can naviagte to
@@ -64,6 +68,4 @@ Below is a summary of the processes I used to create the final bun detection pro
 - Machine Learning library _mlrose_ used to find optimal path between the individual start and endpoint coordinates of the vertical and horizontal lines of the crosses on the buns
 - Adapting these results, the optimal path which joins up each start and endpoint of a line to create the vertical and horizontal lines of the crosses on the buns can be found
 - Additional coordinates which the TCP must pass through are integrated to ensure the icing extruder does not pass over other buns as it travels between each bun
-
-<img src="https://user-images.githubusercontent.com/67097862/162095779-f7745a7e-28e5-4bd6-ae0e-6684df174a03.png" align = "center" width="600">
 
