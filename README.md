@@ -1,10 +1,10 @@
 # <u>Computer Vision Path Optimisation</u>  
+<img src="https://user-images.githubusercontent.com/67097862/162095779-f7745a7e-28e5-4bd6-ae0e-6684df174a03.png" align="center" width="400">
+
 
 **Computer vision system** designed to automate and optimise the decoration of bakery goods, for example hot-cross buns. The system detects the position of pastries on a tray, optimises the path for an icing extruder, and interfaces with a robotic arm to accurately decorate each pastry.  
 
 Developed as proof-of-concept project during a **summer internship** at **Inovo Robotics**.  
-
-<img src="https://user-images.githubusercontent.com/67097862/162095779-f7745a7e-28e5-4bd6-ae0e-6684df174a03.png" align="center" width="400">
 
 ## 🛠 Tech Stack
 
