@@ -13,7 +13,7 @@ Developed as proof-of-concept project during a **summer internship** at **Inovo 
 - **Tools**: HSV masking, Canny edge detection, Hough transforms, clustering algorithms<br><br>
 
 
-## ⚙️ Process Overview
+## 📝 Project Overview
 
 ### 1. Calibration
 - Uses three circular stickers:
@@ -47,7 +47,7 @@ Developed as proof-of-concept project during a **summer internship** at **Inovo 
 - Uses _rospy_ to interface with Inovo’s robotic arm  
 - Moves extruder along the optimised path to decorate buns accurately<br><br>
 
-## 📝 Project Overview  
+## 📊 Project Presentation  
 <p float="left">
   <img src="https://github.com/user-attachments/assets/f640e2be-6605-4531-801e-00ef45bb9b1a" width="450" />
   <img src="https://github.com/user-attachments/assets/780204d2-1153-49bd-b611-425c1ca7b837" width="450" />
