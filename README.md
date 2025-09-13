@@ -4,7 +4,7 @@
 
 **Computer vision system** designed to automate and optimise the decoration of bakery goods, for example hot-cross buns. The system detects the position of pastries on a tray, optimises the path for an icing extruder, and interfaces with a robotic arm to accurately decorate each pastry.  
 
-Developed as proof-of-concept project during a **summer internship** at **Inovo Robotics**.  
+Developed as proof-of-concept project during a **summer internship** at **Inovo Robotics**.<br><br> 
 
 ## 🛠 Tech Stack
 
