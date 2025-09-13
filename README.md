@@ -49,7 +49,7 @@ Developed as proof-of-concept project during a **summer internship** at **Inovo 
 
 ## 📸 Visual Summary
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/f640e2be-6605-4531-801e-00ef45bb9b1b" width="450" />
+  <img src="https://github.com/user-attachments/assets/f640e2be-6605-4531-801e-00ef45bb9b1a" width="450" />
   <img src="https://github.com/user-attachments/assets/780204d2-1153-49bd-b611-425c1ca7b837" width="450" />
 </p>
 
@@ -67,6 +67,7 @@ Developed as proof-of-concept project during a **summer internship** at **Inovo 
   <img src="https://github.com/user-attachments/assets/e90a9318-5a1c-4739-ba8b-4071142c0d34" width="450" />
   <img src="https://github.com/user-attachments/assets/ed2da222-215d-4845-b32e-ba1794dd2f54" width="450" />
 </p>
+
 
 # Hot-Cross Buns Computer Vision Project (Inovo Robotics Internship)
 During summer 2021 I spent two weeks working with Inovo Robotics on a POC computer vision project to automate the decoration of hot-cross buns. 
