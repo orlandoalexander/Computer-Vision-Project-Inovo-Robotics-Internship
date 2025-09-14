@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/67097862/162095779-f7745a7e-28e5-4bd6-ae0e-6684df174a03.png" align="center" width="400">
 
 
-**Computer vision system** designed to automate and optimise the decoration of bakery goods. Decorating **6 buns in just 20 seconds** (compared to the 3–5 minutes a skilled baker would normally take) the system achieves **up to 90% greater efficiency** by identifying pastry positions, optimising the decorating path, and interfacing with a robotic arm to accurately decorate each pastry.
+**Computer vision system** to automate the decoration of bakery goods. Decorating **6 buns in just 20 seconds** (compared to the 3–5 minutes a skilled baker would normally take) the system achieves **up to 90% greater efficiency** by identifying pastry positions, optimising the decorating path, and interfacing with a robotic arm to accurately decorate each pastry.
 
 Developed as proof-of-concept project during a **summer internship** at **Inovo Robotics**.
 
