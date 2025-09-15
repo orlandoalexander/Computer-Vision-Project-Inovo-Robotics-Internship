@@ -12,7 +12,7 @@ Developed as proof-of-concept project during a **summer internship** at **Inovo 
 ## 🛠 Tech Stack
 
 - **Software**: Python, OpenCV (computer vision), rospy (robot control), mlrose (path optimisation)
-- **Tools**: HSV masking, Canny edge detection, Hough transforms, clustering algorithms
+- **Algorithms**: Canny edge detection, Hough transforms, clustering algorithms
 - **Hardware**: Inovo modular robotic arm (TCP control)<br><br>
 
 
